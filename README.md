@@ -47,7 +47,9 @@ I invite you to check my website to check all my career path. <a href="https://v
 [![Instagram](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/instagram.png)](https://www.instagram.com/vickypenyas/)
 
 ### <ins>CONTACT</ins>
+<a href="mailto:victoria.penyas@gmail.com">![Email](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/email.png)</a>
+<a href="wa.link/4t971o">![WhatssApp](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/whatssapp.png)</a>
+<a href="tel:34646621090">![Phone](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/phone.png)</a>
 
-![Email](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/email.png) victoria.penyas@gmail.com
-
-![WhatssApp](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/whatssapp.png) ![Phone](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/phone.png) [+34 646621090](wa.link/4t971o)
+* victoria.penyas@gmail.com
+* +34 646 621 090
