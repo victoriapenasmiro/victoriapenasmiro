@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 **I'm happy to see you on my Github profile!**
 
-![logo](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/sass.png)
+![html5-css3-js](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/html-js-css.png)
+![sass](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/sass.png)
+![bootstrap](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/bootstrap.png)
+![java](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/java.png)
+![psql](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/psql.png)
+![github](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/github.png)
+![google-webmaster-tools](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/google.png)
+![wordpress](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/wordpress.png)
 
 I invite you to check my website to check all my career path. <a href="https://victoriapenasmiro.github.io/resume/" target="_blank"><strong> Resume.</strong></a>
