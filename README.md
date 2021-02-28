@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="120px">
+
 **I'm happy to see you on my Github profile!**
+
+
+
+I invite you to check my website to check all my career path. <a href="https://victoriapenasmiro.github.io/resume/" target="_blank"><strong> Resume.</strong></a>
