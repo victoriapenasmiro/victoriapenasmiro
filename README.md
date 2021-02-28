@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 #### GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapenasmiro&layout=compact&hide_title=true" height="165"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriapenasmiro&show_icons=true&theme=radical&hide_title=true&show_icons=true&count_private=true" height="165"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapenasmiro&layout=compact&hide_title=true" height="150"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriapenasmiro&show_icons=true&theme=radical&hide_title=true&show_icons=true&count_private=true" height="150"/>
 
 ### <ins>ABOUT ME</ins>
 I am Victoria and I'm Web Developer and SEO Expert.
