@@ -52,4 +52,4 @@ I invite you to check my website to check all my career path. <a href="https://v
 [![Phone](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/phone.png)](tel:+34646621090)
 
 * victoria.penyas@gmail.com
-* +34 646 621 090
+* +34 646621090
