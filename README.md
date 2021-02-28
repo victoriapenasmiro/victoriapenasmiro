@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### <ins>ABOUT ME</ins>
 I am Victoria and I'm Web Developer and SEO Expert.
 
-Currently studying Web Application Development higher vocational training and I work as Online Product Manager in <a href="https://ittravelservices.com/" target="_blank">IT TRAVEL SERVICES</a> doing web design and development, managing CMS (Wordpress), implementing online marketing actions, digital strategy and SEO.
+Currently studying Web Application Development higher vocational training and I work as Online Product Manager in [IT TRAVEL SERVICES](https://ittravelservices.com) doing web design and development, managing CMS (Wordpress), implementing online marketing actions, digital strategy and SEO.
 
 I invite you to check my website to check all my career path. <a href="https://victoriapenasmiro.github.io/resume/" target="_blank"><strong> Resume.</strong></a>
 
