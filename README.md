@@ -48,8 +48,8 @@ I invite you to check my website to check all my career path. <a href="https://v
 
 ### <ins>CONTACT</ins>
 <a href="mailto:victoria.penyas@gmail.com">![Email](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/email.png)</a>
-<a href="wa.link/4t971o">![WhatssApp](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/whatssapp.png)</a>
-<a href="tel:34646621090">![Phone](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/phone.png)</a>
+<a href="https://api.whatsapp.com/send?phone=34646621090">![WhatssApp](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/whatssapp.png)</a>
+<a href="tel:+34646621090">![Phone](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/phone.png)</a>
 
 * victoria.penyas@gmail.com
 * +34 646 621 090
