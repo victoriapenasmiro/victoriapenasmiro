@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 **I'm happy to see you on my Github profile!**
 
-
+![logo](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/sass.png)
 
 I invite you to check my website to check all my career path. <a href="https://victoriapenasmiro.github.io/resume/" target="_blank"><strong> Resume.</strong></a>
