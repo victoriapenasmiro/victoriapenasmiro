@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <code>![html5-css3-js](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/html-js-css.png)</code>
 <code>![sass](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/sass.png)</code>
 <code>![bootstrap](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/bootstrap.png)</code>
-<code>![react](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/react.png)</code>
+<!--<code>![react](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/react.png)</code>-->
 <code>![java](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/java.png)</code>
 <code>![psql](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/psql.png)</code>
 <code>![github](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/github.png)</code>
