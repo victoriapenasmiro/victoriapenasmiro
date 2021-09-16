@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapenasmiro&layout=compact&hide_title=true" height="150"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriapenasmiro&show_icons=true&theme=radical&hide_title=true&show_icons=true&count_private=true" height="150"/>
 
 ### <ins>ABOUT ME</ins>
-I am Victoria and I'm Web Developer and SEO Expert.
+I am Victoria and I'm Front-end Developer.
 
-Currently studying Web Application Development higher vocational training and I work as Online Product Manager in [IT TRAVEL SERVICES](https://ittravelservices.com) doing web design and development, managing CMS (Wordpress), implementing online marketing actions, digital strategy and SEO.
+Currently studying Web Application Development higher vocational training and I'm working as Online Product Manager in [IT TRAVEL SERVICES](https://ittravelservices.com) doing web design and development, managing CMS (Wordpress), implementing online marketing actions, digital strategy and SEO.
 
 I invite you to check my website to check all my career path. <a href="https://victoriapenasmiro.github.io/resume/" target="_blank"><strong> Resume.</strong></a>
 
