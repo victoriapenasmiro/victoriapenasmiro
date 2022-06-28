@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 #### Languages and tools:
 
 <code>![html5-css3-js](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/html-js-css.png)</code>
+<code>![typescript](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/TypeScript.png)</code>
 <code>![sass](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/sass.png)</code>
 <code>![bootstrap](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/bootstrap.png)</code>
+<code>![antd](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/antd.svg)</code>
 <code>![react](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/react.png)</code>
-<code>![java](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/java.png)</code>
 <code>![psql](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/psql.png)</code>
+<code>![mongo(https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/mongoDBlogo.png)</code>
 <code>![github](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/github.png)</code>
-<code>![google-webmaster-tools](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/google.png)</code>
-<code>![wordpress](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/wordpress.png)</code>
 
 #### GitHub Stats:
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### <ins>ABOUT ME</ins>
 I am Victoria and I'm Front-end Developer.
 
-Currently studying Web Application Development higher vocational training and I'm working as Online Product Manager in [IT TRAVEL SERVICES](https://ittravelservices.com) doing web design and development, managing CMS (Wordpress), implementing online marketing actions, digital strategy and SEO.
+I'm currently working as Front-end developer in [RookieWise](https://rookiewise.com/) mainly with React hooks, TypeScript, Ant Design and MongoDB.
 
 I invite you to check my website to check all my career path. <a href="https://victoriapenasmiro.github.io/resume/" target="_blank"><strong> Resume.</strong></a>
 
