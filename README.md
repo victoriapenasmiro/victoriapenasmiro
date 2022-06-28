@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <code>![typescript](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/TypeScript.png)</code>
 <code>![sass](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/sass.png)</code>
 <code>![bootstrap](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/bootstrap.png)</code>
-<code>![antd](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/antd.svg)</code>
+<code>![antd](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/antdlogo.svg)</code>
 <code>![react](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/react.png)</code>
 <code>![psql](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/psql.png)</code>
-<code>![mongo(https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/mongoDBlogo.png)</code>
+<code>![mongo(https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/mongoDB.png)</code>
 <code>![github](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/github.png)</code>
 
 #### GitHub Stats:
