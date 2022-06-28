@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapenasmiro&layout=compact&hide_title=true" height="150"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriapenasmiro&show_icons=true&theme=radical&hide_title=true&show_icons=true&count_private=true" height="150"/>
 
 ### <ins>ABOUT ME</ins>
-I am Victoria and I'm Front-end Developer.
+I am Victoria Peñas and I'm Front-end Developer.
 
 I'm currently working as Front-end developer in [RookieWise](https://rookiewise.com/) mainly with React hooks, TypeScript, Ant Design and MongoDB.
 
@@ -45,7 +45,6 @@ I invite you to check my website to check all my career path. <a href="https://v
 #### Follow me:
 
 [![Linkedin](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/linkedin.png)](https://www.linkedin.com/in/victoriapenas/) 
-[![Instagram](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/instagram.png)](https://www.instagram.com/vickypenyas/)
 
 ### <ins>CONTACT</ins>
 <a href="mailto:victoria.penyas@gmail.com">![Email](https://github.com/victoriapenasmiro/victoriapenasmiro/blob/main/images/email.png)</a>
